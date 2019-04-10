@@ -1,1 +1,1 @@
-print("sd%d",10)
+print("sd/%d",10)
